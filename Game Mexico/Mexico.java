@@ -2,7 +2,7 @@ public class Mexico {
 	
 	
 	/*
-	Suzy Liu 260761416
+	Suzy Liu 
 	*/
 	
 	//main method
