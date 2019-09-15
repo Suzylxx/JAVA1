@@ -3,7 +3,7 @@ public class ISBN
 	public static void main(String[] args)
 	{	
 		/*
-		Suzy Liu 260761416
+		Suzy Liu 
 		*/
 		int n = Integer.parseInt(args[0]);
 		
