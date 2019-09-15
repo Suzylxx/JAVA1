@@ -3,7 +3,7 @@ public class DayOfTheWeek {
 	public static void main(String[] args) {
 	
 		/*
-		Suzy Liu 260761416
+		Suzy Liu 
 		*/
 	
 		//Declaring the variables for year(y), month(m), day(d)
