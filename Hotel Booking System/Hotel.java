@@ -2,7 +2,7 @@ package BookingSystem;
 import java.util.NoSuchElementException;
 
 	/*
-	 * Suzy Liu 260761416
+	 * Suzy Liu
 	 */
 
 public class Hotel {
