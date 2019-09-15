@@ -4,7 +4,7 @@ import java.util.Random;
 public class Tic_Tac_Toe {
 	
 	/*
-	 Suzy Liu 260761416
+	 Suzy Liu
 	 */
 	//main method
 	public static void main(String[] args) {
