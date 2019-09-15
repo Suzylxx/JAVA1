@@ -4,7 +4,7 @@ import java.io.*;
 
 public class Tweet {
 	/*
-	Suzy Liu 260761416
+	Suzy Liu 
 	*/	
 	//four private attributes
 	private String userAccount;
