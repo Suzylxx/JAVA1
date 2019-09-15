@@ -1,7 +1,7 @@
 package BookingSystem;
 
 	/*
- 	* Suzy Liu 260761416
+ 	* Suzy Liu 
  	*/
 
 import java.util.Scanner;
