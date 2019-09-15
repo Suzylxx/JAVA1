@@ -6,7 +6,7 @@ import java.util.HashMap;
 
 public class Twitter {
 	/*
-	Suzy Liu 260761416
+	Suzy Liu 
 	*/	
 	//main method
 	public static void main(String[] args) throws IOException{
