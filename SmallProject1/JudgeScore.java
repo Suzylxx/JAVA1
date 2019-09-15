@@ -2,7 +2,7 @@ public class JudgeScore {
 	public static void main(String[] args) {
 	
 		/*
-		Suzy Liu 260761416
+		Suzy Liu 
 		*/	
 	
 		//Declaring the variables for storing the judges scores.
